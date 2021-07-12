@@ -7,7 +7,7 @@ os:
   - osx
   - windows
 
-go_import_path: toolman.org/time/timespan/v2
+go_import_path: github.com/lkarlslund/time-timespan
 
 go:
   - "1.11.x"
